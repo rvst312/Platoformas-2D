@@ -25,4 +25,9 @@ public class MenuManager : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+
+    public void ButtonLevel2()
+    {
+        SceneManager.LoadScene(4);
+    }
 }

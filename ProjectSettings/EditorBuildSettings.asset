@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/levelGym.unity
     guid: ae24ee996851a4f279b44e3d5b65421e
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: d5e34b7a3f7804fc5b0d675cda65e658
   m_configObjects: {}

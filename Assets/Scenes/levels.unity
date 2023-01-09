@@ -1054,7 +1054,7 @@ GameObject:
   - component: {fileID: 1757764293}
   - component: {fileID: 1757764292}
   m_Layer: 5
-  m_Name: ButtonQuit (1)
+  m_Name: ButtonLevel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1125,9 +1125,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1412600013}
         m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-        m_MethodName: ButtonQuit
+        m_MethodName: ButtonLevel2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
