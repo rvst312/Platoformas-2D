@@ -20,4 +20,9 @@ public class MenuManager : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+
+    public void ButtonGym()
+    {
+        SceneManager.LoadScene(3);
+    }
 }
