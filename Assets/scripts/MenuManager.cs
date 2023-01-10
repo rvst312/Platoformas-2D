@@ -7,7 +7,7 @@ public class MenuManager : MonoBehaviour
 {
     public void ButtonStart()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void ButtonQuit()
@@ -18,16 +18,16 @@ public class MenuManager : MonoBehaviour
 
     public void ButtonLevel1()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(2);
     }
 
     public void ButtonGym()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(4);
     }
 
     public void ButtonLevel2()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 }

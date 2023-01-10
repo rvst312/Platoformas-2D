@@ -19,8 +19,7 @@ public class puntuaje : MonoBehaviour
         textoPuntos.text = "POINTS: " + puntos.ToString();
         if (puntos==3)
         {
-            
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(1);
         }
     }
 }
